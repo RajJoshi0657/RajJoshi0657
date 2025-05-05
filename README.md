@@ -7,6 +7,10 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=4000&pause=1000&center=true&width=435&lines=Transforming+data+into+clarity;Learning+one+tool+at+a+time;Driven+by+curiosity+and+impact"/>
 </div>
 
+<div align="center">
+  <img src="https://media.giphy.com/media/1kkxWqT5nvLXupUTwK/giphy.gif" width="200" alt="Animated Robot with Laptop"/>
+</div>
+
 ---
 
 ### 🧠 About Me
@@ -18,7 +22,7 @@
 text
 MS Office Suite (Excel, PowerPoint, Word)
 Power BI (Intermediate Level)
-SQL (Beginner Level)
+MongoDB (Beginner Level)
 HTML | CSS | ASP.NET C# (Beginner Level)
 
 
